@@ -1,5 +1,5 @@
 #include<stdlib.h>
-#include"project.h"
+#include"prediction.h"
 int main()
 { 	printf("                                            *****************\n");
 	printf("                                             WELCOME TO KMIT \n");

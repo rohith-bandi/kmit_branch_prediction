@@ -19,12 +19,12 @@ int main()
 	    {
 		    case 1:
 			    {
-				    system("start file:///C:/Users/bandi/Downloads/KMIT%20INFORMATION.pdf");
+				    system("start file:///C:/Users/bandi/OneDrive/Documents/GitHub/kmit_branch_prediction/KMIT_INFORMATION.pdf");
 				    break;
 			    }
 		    case 2:
 			    {
-			        system("start file:///C:/Users/bandi/Downloads/KMIT%20PLACEMENTS.pdf");
+			        system("start file:///C:/Users/bandi/OneDrive/Documents/GitHub/kmit_branch_prediction/KMIT_INFORMATION.pdf");
 			        break;
 			    }
 		    case 3:
